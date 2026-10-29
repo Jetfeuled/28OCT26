@@ -14,12 +14,21 @@ body {
 
 main {
   padding: 15px;
+  background-color: white;
+  border-radius: 10px;
+  width: 40%;
+  float: left;
 }
 
 aside {
   padding: 15px;
+  background-color: white;
+  border-radius: 10px;
+  width: 40%;
+  float: right;
 }
 
 footer{
   padding-top: 30px;
+  clear: both;
 }
